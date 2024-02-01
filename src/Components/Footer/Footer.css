@@ -1,0 +1,15 @@
+.sec-1{
+    background-color: #2C3D4F;
+    padding: 7%;
+}
+
+.sec-2{
+    background-color: #1A252F;
+}
+
+.icons i{
+    border: 1px #fff solid;
+    border-radius: 50%;
+    padding: 2%;
+    margin: 1%;
+}

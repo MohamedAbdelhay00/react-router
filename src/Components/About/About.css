@@ -1,0 +1,24 @@
+.about{
+    background-color: #19BC9B;
+    padding: 10%;
+}
+
+.about img{
+    width: 20%;
+}
+
+.about h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.about .hr{
+    width: 6%;
+    border: 2px #fff solid !important;
+    display: inline-block;
+    background-color: #fff;
+}
+
+.parag{
+    text-align: left;
+}

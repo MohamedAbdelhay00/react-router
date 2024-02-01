@@ -1,0 +1,27 @@
+.logo{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.nav-custom{
+    background-color: #2C3D4F;
+}
+
+.nav-link-custom{
+    background-color: #19BC9B;
+}
+
+.nav-link{
+    font-weight: 700;
+}
+
+@media only screen and (min-width: 301px) and (max-width: 768px) { 
+    .logo{
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    .nav-link{
+        padding: 1%;
+    }
+ }

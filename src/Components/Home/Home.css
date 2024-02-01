@@ -1,0 +1,25 @@
+.home{
+    background-color: #19BC9B;
+}
+
+.home img{
+    width: 20%;
+}
+
+.home h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.home .hr{
+    width: 6%;
+    border: 2px #fff solid !important;
+    display: inline-block;
+    background-color: #fff;
+}
+
+@media only screen and (min-width: 301px) and (max-width: 768px) { 
+    .home img{
+        width: 75%;
+    }
+ }
