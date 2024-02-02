@@ -16,3 +16,8 @@
     font-weight: 400;
     color: #C6C9C7;
 }
+@media only screen and (min-width: 301px) and (max-width: 768px) {
+    .not-found{
+    padding-top: 30%;
+}
+}
