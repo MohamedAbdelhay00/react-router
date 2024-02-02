@@ -9,7 +9,7 @@ import Card from './Card';
 
 export default function Portfolio() {
   return (
-    <div className="portfolio text-center w-100 d-flex flex-column align-items-center">
+    <div className="portfolio text-center w-100 d-flex flex-column justify-content-center align-items-center">
       <h2>PORTFOLIO COMPONENT</h2>
       <div className="d-flex justify-content-center align-items-center">
         <div className="hr"></div>
