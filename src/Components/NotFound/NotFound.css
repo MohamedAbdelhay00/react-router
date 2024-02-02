@@ -1,0 +1,18 @@
+.not-found{
+    color: #777777;
+    padding: 7%;
+}
+
+.not-found i{
+    font-size: 200px;
+    padding-bottom: 1%;
+}
+
+.not-found h1{
+    font-size: 100px;
+}
+
+.not-found h2{
+    font-weight: 400;
+    color: #C6C9C7;
+}
