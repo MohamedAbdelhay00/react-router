@@ -16,7 +16,7 @@ export default function Portfolio() {
         <i className="fa-solid fa-star m-3"></i>
         <div className="hr"></div>
       </div>
-      <div className="row g-5">
+      <div className="row w-100 g-5">
         <Card imgUrl={img1} />
         <Card imgUrl={img2} />
         <Card imgUrl={img3} />
